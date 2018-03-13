@@ -1,3 +1,6 @@
+********************************
+*Author:	Jackie Marcano *
+********************************
 #include <iostream>
 #include <iomanip>
 
